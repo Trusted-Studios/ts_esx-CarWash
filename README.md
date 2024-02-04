@@ -7,7 +7,7 @@
 
 ---
 
-# FiveM Simple Car Wash | [Documentation](link)
+# FiveM Simple Car Wash | [Documentation](http://localhost:3000/fivem/simple-car-wash)
 
 The car wash script provides a sponge item, wich enables players to wash their cars.
 
