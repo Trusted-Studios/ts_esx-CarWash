@@ -24,6 +24,8 @@ Config = {}
 
 Config.SpongeItem = 'Item'
 
+Config.WashTime = 10000
+
 Config.Text = {
     ['not_near_vehicle'] = "Du bist nicht in der Nähe eines Fahrzeugs!"
 }
