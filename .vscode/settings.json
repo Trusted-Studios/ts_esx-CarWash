@@ -1,0 +1,16 @@
+{
+    "Lua.diagnostics.disable": [
+        "undefined-doc-name",
+        "cast-local-type",
+        "param-type-mismatch",
+        "missing-parameter"
+    ],
+    "Lua.diagnostics.globals": [
+        "Game",
+        "Visual",
+        "Callback",
+        "Async",
+        "Text",
+        "Math"
+    ]
+}
