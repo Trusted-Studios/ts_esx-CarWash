@@ -22,7 +22,7 @@ Trusted.Webhook = ''
 
 Config = {}
 
-Config.SpongeItem = 'car-sponge'
+Config.SpongeItem = 'sponge'
 
 Config.WashTime = 10000
 
